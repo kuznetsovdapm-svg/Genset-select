@@ -1,0 +1,9 @@
+
+# Необходимые зависимости для работы приложения
+pandas>=1.5
+numpy>=1.23
+streamlit>=1.30
+plotly>=5.0
+matplotlib>=3.5
+openpyxl>=3.0
+requests>=2.31
